@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/gadishimwe/Free-Mentors-React#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "html-loader": "^0.5.5",
     "path": "^0.12.7",
     "react": "^16.13.0",
